@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nero</h1>
-<h3 align="center">A medical informatics engineer from AcuSense Biomedical Technology crop. who has 1.5 + years in back-end and medical application development.</h3>
+<h1 align="left">Hi 👋, I'm Nero</h1>
+<h3 align="left">A medical informatics engineer from AcuSense Biomedical Technology crop. who has 1.5 + years in back-end and medical application development.</h3>
 
 - 📫 How to reach me **hin1997101@gmail.com**
 

@@ -6,4 +6,4 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NeroHin&theme=gruvbox&count_private=true)](https://github.com/NeroHin/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroHin&layout=compact&theme=gruvbox)](https://github.com/NeroHin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroHin&layout=compact&theme=gruvbox&count_private=true)](https://github.com/NeroHin/github-readme-stats)

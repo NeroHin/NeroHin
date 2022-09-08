@@ -4,5 +4,5 @@
 - 📫 How to reach me **hin1997101@gmail.com**
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerohin&count_private=true&theme=gruvbox&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerohin&theme=gruvbox&langs_count=8)](https://github.com/NeroHin/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroHin&count_private=true&theme=gruvbox&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroHin&theme=gruvbox&langs_count=8)](https://github.com/NeroHin/github-readme-stats)

@@ -1,9 +1,9 @@
 
-You're My
+Hello!You're My
 ![Visitor Count](https://profile-counter.glitch.me/NeroHin/count.svg)
 visitor
 
-<h1 align="left">Hi 👋, I'm Nero </h1>
+<h1 align="left">👋I'm Nero </h1>
 <h3 align="left">💻 A medical informatics engineer from AcuSense Biomedical Technology crop. who has 2 + years in back-end and medical application development.</h3>
 <h3 align="left">🎓 Studying in Institute of Medical Informatics with NCKU.</h3>
 

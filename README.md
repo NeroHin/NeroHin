@@ -5,7 +5,7 @@ visitor
 
 <h1 align="left">👋I'm Nero </h1>
 <h3 align="left">💻 A medical informatics engineer from AcuSense Biomedical Technology crop. who has 2 + years in back-end, data enginnering and medical application development.</h3>
-<h3 align="left">🎓 Studying in Institute of Medical Informatics with NCKU.</h3>
+<h3 align="left">🎓 Studying at the institute of medical informatics with NCKU.</h3>
 
 
 - 📫 How to reach me **hin1997101@gmail.com**

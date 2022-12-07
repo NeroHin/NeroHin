@@ -4,7 +4,7 @@
 visitor
 
 <h1 align="left">👋I'm Nero </h1>
-<h3 align="left">💻 A software engineer and technical PM from AcuSense Biomedical Technology crop. who has 2 + years in software development, data enginnering and medical application design.</h3>
+<h3 align="left">💻 A developer who has 2 + years in software, data enginnering and medical application design.</h3>
 <h3 align="left">🎓 Studying at the institute of medical informatics with NCKU.</h3>
 
 

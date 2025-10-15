@@ -4,7 +4,7 @@
 visitor
 
 <h1 align="left">👋I'm Nero </h1>
-<h3 align="left">💻 A developer who has 2 + years in software, data enginnering and medical application design.</h3>
+<h3 align="left">💻 A developer who has 4 + years in software, data enginnering and medical application design.</h3>
 
 
 - 📫 How to reach me **nero.unch@gmail.com**
